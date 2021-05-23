@@ -1,5 +1,6 @@
-package com.yuk.objects.mailbox
+package com.yuk.objects
 
+import com.yuk.objects.mailbox.Main
 import org.junit.jupiter.api.Test
 
 class MailboxTest {
